@@ -1,0 +1,17 @@
+
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+
+
+.Navbar{
+    height: 70px;
+    width: 100%;
+    background-color: blue;
+}
+.the-ul{
+    display: flex;
+    flex-direction: row;
+}
